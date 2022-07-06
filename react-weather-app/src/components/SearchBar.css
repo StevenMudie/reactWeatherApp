@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+.searchBar {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.locationInput {
+  height: 35px;
+  width: 600px;
+  font-size: 18px;
+}
+
+button {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  border: 1px solid black;
+  height: 35px;
+  border-radius: 2px;
+}
